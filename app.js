@@ -118,7 +118,7 @@ document.addEventListener("alpine:init", () => {
     items: [
       { id: 1, name: "Travel", img: "https://i.pinimg.com/474x/31/91/8d/31918d6e52cf33012f61c40132738084.jpg", price: 250000 },
       { id: 2, name: "Mabar Vip/Joki", img: "https://i.pinimg.com/564x/91/1f/47/911f47cf85cc668dbc659e62e8fce502.jpg", price: 50000},
-      { id: 3, name: "Tenderloin steak", img: "https://i.pinimg.com/564x/48/49/78/4849789f019c1ffd27586c384a54cb31.jpg", price: 10000 },
+      { id: 3, name: "Top up diamond", img: "https://i.pinimg.com/564x/48/49/78/4849789f019c1ffd27586c384a54cb31.jpg", price: 10000 },
     ],
   }));
 
